@@ -1,0 +1,59 @@
+2021-06-16 12:01:01 utc | Portfolio Cross v1 (alpha2) |  %23TP1OMG/USDT fully filled  LONG was reduced by 717.9 @ 7.7043$ remaining size: -658.1 | entry @ 5.1362$  Realized PNL: 1843.64$
+2021-06-16 12:01:03 utc | Portfolio Cross v1 (alpha2) |  no record was found for positions in these symbols - they will be recorded: ['ZRX/USDT', 'QTUM/USDT', 'ADA/USDT', 'ETC/USDT', 'DOGE/USDT', 'NEO/USDT', 'ONT/USDT', 'ZEC/USDT', 'XRP/USDT', 'ZIL/USDT']
+2021-06-16 12:01:04 utc | Portfolio Cross v1 (alpha2) |  limit orders on ZRX/USDT were deleted
+2021-06-16 12:01:05 utc | Portfolio Cross v1 (alpha2) |  limit orders on QTUM/USDT were deleted
+2021-06-16 12:01:05 utc | Portfolio Cross v1 (alpha2) |  limit orders on ADA/USDT were deleted
+2021-06-16 12:01:06 utc | Portfolio Cross v1 (alpha2) |  limit orders on ETC/USDT were deleted
+2021-06-16 12:01:06 utc | Portfolio Cross v1 (alpha2) |  limit orders on DOGE/USDT were deleted
+2021-06-16 12:01:07 utc | Portfolio Cross v1 (alpha2) |  limit orders on NEO/USDT were deleted
+2021-06-16 12:01:07 utc | Portfolio Cross v1 (alpha2) |  limit orders on ONT/USDT were deleted
+2021-06-16 12:01:08 utc | Portfolio Cross v1 (alpha2) |  limit orders on ZEC/USDT were deleted
+2021-06-16 12:01:08 utc | Portfolio Cross v1 (alpha2) |  limit orders on XRP/USDT were deleted
+2021-06-16 12:01:09 utc | Portfolio Cross v1 (alpha2) |  limit orders on ZIL/USDT were deleted
+2021-06-16 12:01:09 utc | Portfolio Cross v1 (alpha2) |  no open positions were found for the following symbols - they will be deleted from the records: ['MATIC/USDT', 'TRX/USDT', 'FIL/USDT', 'STORJ/USDT', 'YFI/USDT', 'ETH/USDT', 'BAND/USDT', 'REN/USDT', 'LINK/USDT']
+2021-06-16 12:01:10 utc | Portfolio Cross v1 (alpha2) |  limit orders on MATIC/USDT were deleted
+2021-06-16 12:01:10 utc | Portfolio Cross v1 (alpha2) |  limit orders on TRX/USDT were deleted
+2021-06-16 12:01:11 utc | Portfolio Cross v1 (alpha2) |  limit orders on FIL/USDT were deleted
+2021-06-16 12:01:11 utc | Portfolio Cross v1 (alpha2) |  limit orders on STORJ/USDT were deleted
+2021-06-16 12:01:12 utc | Portfolio Cross v1 (alpha2) |  limit orders on YFI/USDT were deleted
+2021-06-16 12:01:13 utc | Portfolio Cross v1 (alpha2) |  limit orders on ETH/USDT were deleted
+2021-06-16 12:01:13 utc | Portfolio Cross v1 (alpha2) |  limit orders on BAND/USDT were deleted
+2021-06-16 12:01:14 utc | Portfolio Cross v1 (alpha2) |  limit orders on REN/USDT were deleted
+2021-06-16 12:01:14 utc | Portfolio Cross v1 (alpha2) |  limit orders on LINK/USDT were deleted
+2021-06-16 12:01:14 utc | Portfolio Cross v1 (alpha2) |  %23IOTA/USDT - current position size is different to the recorded size - record was updated size now: -1786.0 and was: 1815.5
+2021-06-16 12:01:15 utc | Portfolio Cross v1 (alpha2) |  %23WAVES/USDT - current position size is different to the recorded size - record was updated size now: -270.3 and was: 175.5
+2021-06-16 12:01:15 utc | Portfolio Cross v1 (alpha2) |  %23BAT/USDT - current position size is different to the recorded size - record was updated size now: -1214.4 and was: 6191.5
+2021-06-16 12:01:16 utc | Portfolio Cross v1 (alpha2) |  %23RLC/USDT - current position size is different to the recorded size - record was updated size now: -621.7 and was: 1800.6
+2021-06-16 12:01:16 utc | Portfolio Cross v1 (alpha2) |  %23SNX/USDT - current position size is different to the recorded size - record was updated size now: -128.5 and was: -397.5
+2021-06-16 12:01:16 utc | Portfolio Cross v1 (alpha2) |  %23XLM/USDT - current position size is different to the recorded size - record was updated size now: -7184.0 and was: 22246.0
+2021-06-16 12:01:17 utc | Portfolio Cross v1 (alpha2) |  %23DASH/USDT - current position size is different to the recorded size - record was updated size now: -20.809 and was: 38.981
+2021-06-16 12:01:17 utc | Portfolio Cross v1 (alpha2) |  %23LTC/USDT - current position size is different to the recorded size - record was updated size now: -26.542 and was: 51.147
+2021-06-16 12:01:17 utc | Portfolio Cross v1 (alpha2) |  %23VET/USDT - current position size is different to the recorded size - record was updated size now: -36436.0 and was: 35793.0
+2021-06-16 12:01:18 utc | Portfolio Cross v1 (alpha2) |  %23EOS/USDT - current position size is different to the recorded size - record was updated size now: -721.9 and was: 1937.0
+2021-06-16 12:01:18 utc | Portfolio Cross v1 (alpha2) |  %23KNC/USDT - current position size is different to the recorded size - record was updated size now: -796.0 and was: 1510.0
+2021-06-16 12:01:18 utc | Portfolio Cross v1 (alpha2) |  %23BCH/USDT - current position size is different to the recorded size - record was updated size now: -4.684 and was: -18.596
+2021-06-16 12:01:19 utc | Portfolio Cross v1 (alpha2) |  %23THETA/USDT - current position size is different to the recorded size - record was updated size now: -1236.3 and was: 632.3
+2021-06-16 12:01:19 utc | Portfolio Cross v1 (alpha2) |  %23COMP/USDT - current position size is different to the recorded size - record was updated size now: -10.314 and was: -18.685
+2021-06-16 12:01:19 utc | Portfolio Cross v1 (alpha2) |  %23ICX/USDT - current position size is different to the recorded size - record was updated size now: -994.0 and was: 1527.0
+2021-06-16 12:01:20 utc | Portfolio Cross v1 (alpha2) |  %23YFII/USDT - current position size is different to the recorded size - record was updated size now: -2.582 and was: 3.349
+2021-06-16 12:01:20 utc | Portfolio Cross v1 (alpha2) |  %23CRV/USDT - current position size is different to the recorded size - record was updated size now: -1009.4 and was: 1113.4
+2021-06-16 12:01:20 utc | Portfolio Cross v1 (alpha2) |  %23DOT/USDT - current position size is different to the recorded size - record was updated size now: -189.5 and was: 73.6
+2021-06-16 12:02:13 utc | Portfolio Cross v1 (alpha2) |  short %23COMP/USDT reset ATR stop price from 332.17 to 295.06 STOP LOSS was updated from 575.412007$ to 538.302007$  entry price: 523.49135$ 
+2021-06-16 12:02:14 utc | Portfolio Cross v1 (alpha2) |  long %23OMG/USDT reset ATR stop price from 7.2501 to 13.1372 STOP LOSS was updated from 3.337427$ to 9.224527$  entry price: 5.1362$ | %23TP1OMG/USDT
+2021-06-16 12:02:14 utc | Portfolio Cross v1 (alpha2) |  short %23SNX/USDT reset ATR stop price from 15.538 to 8.471 STOP LOSS was updated from 23.676731$ to 16.609731$  entry price: 16.3128$ 
+2021-06-16 12:02:25 utc | Portfolio Cross v1 (alpha2) |  %23OMG/USDT - current market price: (5.01911577) <= stop price (9.224527113029566) | ATR trailing stop loss triggered | closing long -658.1 @ 5.01911577 balance: 164396.646 | u-PnL 478.49413 | portfolio pnl 0.291 %
+2021-06-16 12:02:26 utc | Portfolio Cross v1 (alpha2) |  network/exchange error binance {"code":-2022,"msg":"ReduceOnly Order is rejected."}
+2021-06-16 12:02:28 utc | Portfolio Cross v1 (alpha2) |  network/exchange error binance {"code":-2022,"msg":"ReduceOnly Order is rejected."}
+2021-06-16 12:02:30 utc | Portfolio Cross v1 (alpha2) |  network/exchange error binance {"code":-2022,"msg":"ReduceOnly Order is rejected."}
+2021-06-16 12:02:32 utc | Portfolio Cross v1 (alpha2) |  network/exchange error binance {"code":-2022,"msg":"ReduceOnly Order is rejected."}
+2021-06-16 12:02:34 utc | Portfolio Cross v1 (alpha2) |  network/exchange error binance {"code":-2022,"msg":"ReduceOnly Order is rejected."}
+2021-06-16 12:02:36 utc | Portfolio Cross v1 (alpha2) |  error in *run* func binance {"code":-2022,"msg":"ReduceOnly Order is rejected."} Traceback (most recent call last):   File "/home/ubuntu/.local/lib/python3.6/site-packages/ccxt/base/exchange.py", line 593, in fetch     response.raise_for_status()   File "/usr/lib/python3/dist-packages/requests/models.py", line 935, in raise_for_status     raise HTTPError(http_error_msg, response=self) requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://fapi.binance.com/fapi/v1/order  During handling of the above exception, another exception occurred:  Traceback (most recent call last):   File "main.py", line 141, in run     tg_user=telegram_users)   File "/home/ubuntu/portfolio_ema_cross/make_trades.py", line 542, in execute_atr_trailing_stops     tg_user=tg_user   File "/home/ubuntu/portfolio_ema_cross/helpers.py", line 43, in retry_func     return func(*args, **kwargs)   File "/home/ubuntu/portfolio_ema_cross/make_trades.py", line 42, in make_order     amount=pos_size, params=order_params)   File "/home/ubuntu/.local/lib/python3.6/site-packages/ccxt/binance.py", line 1947, in create_order     response = getattr(self, method)(self.extend(request, params))   File "/home/ubuntu/.local/lib/python3.6/site-packages/ccxt/base/exchange.py", line 461, in inner     return entry(_self, **inner_kwargs)   File "/home/ubuntu/.local/lib/python3.6/site-packages/ccxt/binance.py", line 2930, in request     response = self.fetch2(path, api, method, params, headers, body)   File "/home/ubuntu/.local/lib/python3.6/site-packages/ccxt/base/exchange.py", line 482, in fetch2     return self.fetch(request['url'], request['method'], request['headers'], request['body'])   File "/home/ubuntu/.local/lib/python3.6/site-packages/ccxt/base/exchange.py", line 609, in fetch     self.handle_errors(http_status_code, http_status_text, url, method, headers, http_response, json_response, request_headers, request_body)   File "/home/ubuntu/.local/lib/python3.6/site-packages/ccxt/binance.py", line 2925, in handle_errors     raise ExchangeError(feedback) ccxt.base.errors.ExchangeError: binance {"code":-2022,"msg":"ReduceOnly Order is rejected."} 
+2021-06-16 12:53:52 utc | Portfolio Cross v1 (alpha2) |  The bot was shut down by user
+2021-06-16 13:52:48 utc | Portfolio Cross v1 (alpha2) |  Portfolio Cross v1 (alpha2) strategy has started
+2021-06-16 14:02:03 utc | Portfolio Cross v1 (alpha2) |  short %23COMP/USDT reset ATR stop price from 332.17 to 295.06 STOP LOSS was updated from 575.412007$ to 538.302007$  entry price: 523.49135$ | %23TP1COMP/USDT
+2021-06-16 14:02:03 utc | Portfolio Cross v1 (alpha2) |  short %23SNX/USDT reset ATR stop price from 15.538 to 8.471 STOP LOSS was updated from 23.676731$ to 16.609731$  entry price: 16.3128$ | %23TP2SNX/USDT
+2021-06-16 14:02:19 utc | Portfolio Cross v1 (alpha2) |  CLOSE ORDER | created a limit order to buy %23COMP/USDT 5.157 @ 261.75
+2021-06-16 14:02:20 utc | Portfolio Cross v1 (alpha2) |  %23TP2COMP/USDT - created a limit order to reduce sell pos by -5.157 @ 261.75
+2021-06-16 14:02:20 utc | Portfolio Cross v1 (alpha2) |  CLOSE ORDER | created a limit order to buy %23BCH/USDT 2.342 @ 412.52
+2021-06-16 14:02:21 utc | Portfolio Cross v1 (alpha2) |  %23TP2BCH/USDT - created a limit order to reduce sell pos by -2.342 @ 412.52
+2021-06-16 14:34:56 utc | Portfolio Cross v1 (alpha2) |  The bot was shut down by user
